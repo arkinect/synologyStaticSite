@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.maxmind.com	TRUE	/	FALSE	1999999999	_cfuvid	MZfFQjXOruAbhO.wBIOjpyjEkB6z7uQscyFB2CmF_W0-1748979400738-0.0.1.1-604800000
+

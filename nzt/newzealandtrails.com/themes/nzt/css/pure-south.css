@@ -1,0 +1,71 @@
+.carousel-container .ss .logo {
+    background-color: rgba(0,139,209,.7)
+}
+
+.trip-carousel .trip.ss {
+    background: #008bd1;
+}
+
+.trip-carousel .trip.ss .trip-content .white-bg-text p {
+    color: #008bd1;
+}	
+
+.page-69.TripPage .new-design #wh-special #tab-titles.absolute-initial {
+    background: #99d1ed;
+    border-bottom-color: #99d1ed;
+}
+
+.page-69 #tab-titles a {
+    background: #1997d6;
+}
+
+.page-69 .new-design #wh-special .trip-information .top-box .trip-logo, .page-69 .new-design #wh-special .trip-information .customer-ratings .btn, .page-69 .new-design #wh-special .left-content .reviews-container, .page-69 .new-design .price-box .buttons span.convert-currency {
+    background: #cce8f6 !important;
+}		
+
+.blog-posts.reviews-page .post.ss .post-content {
+    background: rgba(0,139,209,.8) !important;
+}
+
+.gallery-wrapper .thumb.ss .hover-content .date {
+    background: rgba(0,139,209,.8);
+}
+.gallery-wrapper .thumb.ss .hover-content .trip-logo {
+    background: rgba(0,139,209,.8);
+}
+
+.fancybox-show-caption .fancybox-caption-wrap .modal-content.ss {
+    background: rgba(0,139,209,.8);
+}
+
+.ss .availability-svg-logo {
+    background: #008bd1;
+}		
+
+.page-69 .svg-logo {
+    background: rgba(0,139,209,1);
+}
+.page-69 .new-design #wh-special .trip-information .top-box, .page-69 .new-design #wh-special .trip-information .customer-ratings, .page-69 .new-design .price-box, .page-69 #tab-day-by-day .extended-part .add-on .price, .page-69 #tab-day-by-day .options-container .option .price {
+    background: #008bd1;
+}
+.page-69 .new-design #wh-special .general-large-h3, .page-69 .new-design #wh-special .general-large-h6, .page-69 .new-design #wh-special .trip-information h6, .page-69 .new-design #wh-special .trip-information .customer-ratings .btn, .page-69 .new-design #wh-special .general-large-h5, .page-69 .new-design #wh-special .left-content .reviews-container p, .page-69 .new-design #wh-special .left-content .reviews-container .name, .page-69 .new-design .price-box .buttons span {
+    color: #008bd1;
+}
+.page-69 .trip-explorer-slider .left-side, .page-69 .trip-explorer-slider .right-side {
+    background: #33a2da;
+}
+.page-69 .new-design #wh-special .trip-information .customer-ratings .stars i {
+    background: url(https://newzealandtrails.com/themes/nzt/images/rating-stars_PS.svg) repeat-x;
+}		
+.page-69 .new-design #wh-special .left-content .reviews-container {
+    border-left-color: #008bd1;
+}
+.page-69 .new-design #wh-special #tab-titles a {
+    border-color: #008bd1;
+}
+.page-69 #tab-day-by-day .trip-explorer .trip-explorer-slider .owl-item .trip-item, .page-69 #tab-day-by-day .trip-explorer .trip-details {
+    background: #e5f3fa;
+}		
+.page-69 #tab-day-by-day .extended-part .options-container, .page-69 #tab-day-by-day .extended-part .add-on {
+    background: #b2dcf1;
+}
